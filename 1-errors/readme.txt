@@ -1,0 +1,2 @@
+    Nesse pequeno tópico abordaremos diversos erros, cada pasta terá o nome de um erro recorrente que será induzido em forma de códigos 
+e um comentário explicativo para solução e em qual sintaxe esse erro acontece. Os erros serão numerados do mais recorrente ao menos recorrente.
