@@ -3,7 +3,7 @@
 
     $nome = "henrique" // Aqui podemos ver que a variável foi declarada sem o ponto e vírgula, diferente de javascript o php faz essa cobrança no final de cada código.
 
-    echo $nome; 
+    echo $nome;
 //     Ao rodar o programa e tentar exibir o 'echo' reberemos esse erro:
 //     Parse error: syntax error, unexpected token "echo" in C:\xampp\htdocs\Php\1-errors\1-sintaxe\index.php on line 6.
 
