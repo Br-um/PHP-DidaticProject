@@ -10,6 +10,7 @@
      if($usuario->validation()):
           $query = "INSERT INTO usuario (nome, idade, genero) VALUES ('{$usuario->getName()}', '{$usuario->getAge()}', '{$usuario->getGender()}')";
           mysqli_query($conn, $query);
+          header('Location: ../index.php');
      else:
           echo "Erro ao inserir valores no banco";
      endif;

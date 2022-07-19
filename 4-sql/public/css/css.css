@@ -1,7 +1,9 @@
 form{
+     position: relative;
      display: flex;
      flex-direction: column;
      width: 400px;
+     margin: 100px;
 }
 fieldset{
      display: flex;

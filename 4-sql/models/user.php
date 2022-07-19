@@ -47,7 +47,7 @@
           }
 
           public function validation(){
-               $namePattern = "/^[a-z]+$/i";
+               $namePattern = "/^[\_\a-zà-ú ]+$/i";
                $agePattern = "/^[0-9]+$/";
                $genderPattern = "/^[f,m]{1}$/i";
 
